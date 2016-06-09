@@ -10,7 +10,7 @@ var mainBowerFiles = require('main-bower-files');
 var paths = {
   scripts: ['src/js/*'],
   htmls: 'src/*.html',
-  images: 'src/images/**/*',
+  images: 'src/imgs/**/*',
   styles:'src/css/*',
 };
 
