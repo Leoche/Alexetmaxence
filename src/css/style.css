@@ -80,6 +80,9 @@ h1{
 	display: inline-block;
 	margin-right: 50px;
 }
+.mobile-only{
+	display:none;
+}
 #leftbar{
 	background:#111;
 	position: fixed;
@@ -297,6 +300,9 @@ textarea.input{
 .button:active{
 	background: #333;
 }
-.desktop-only{
-	
+.mobile-only{
+	display: none;
+}
+.hidden{
+	display:none;
 }

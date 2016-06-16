@@ -8,7 +8,7 @@ var plugins = require("gulp-load-plugins")({
 var mainBowerFiles = require('main-bower-files');
 
 var paths = {
-  scripts: ['src/js/*'],
+  scripts: ['src/js/main.js'],
   htmls: 'src/*.html',
   images: 'src/imgs/**/*',
   styles:'src/css/*',
@@ -16,7 +16,9 @@ var paths = {
 
 gulp.task('scripts', function() {
 	console.log(dest);
-	return gulp.src(mainBowerFiles().concat(paths.scripts))
+	var scripts = ['src/js/scrolloverflow.min.js'].concat(mainBowerFiles());
+	console.log(scripts);
+	return gulp.src(scripts.concat(paths.scripts))
 		.pipe(plugins.filter('**/*.js'))
 		.pipe(plugins.concat('main.min.js'))
 		.pipe(plugins.uglify())
@@ -45,6 +47,7 @@ gulp.task('images', function(){
 });
 gulp.task('serve', function() {
     browserSync.init({
+    	notify: false,
         server: "./dist"
     });
 });
