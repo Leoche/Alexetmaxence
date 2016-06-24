@@ -1,0 +1,50 @@
+{
+	"apropos":"Ce sont deux co-auteurs de romans érotiques et new romance. Ils ont créé une trilogie dont le premier tome est \"ALL IN\". Ce premier tome installe des personnages attachants et donne un aperçu du style des auteurs, c'est drôle et c'est chaud!",
+	"livres":[
+		{
+			"title":"All in",
+			"color":"#0f3313",
+			"cover":"https://images-na.ssl-images-amazon.com/images/I/41JXvF-dKRL.jpg",
+			"histoire":"Quelques temps après l’électrochoc de la découverte de l’infidélité de sa femme en direct à la télé, Adam a amorcé sa descente aux enfers dans le Vegas de la nuit, en marge des grands casinos du strip. Entre alcool, sexe et magouille, le gentil Adam d’Hartford Connecticut n’était plus qu’un souvenir. Dans la ville qui ne dort jamais et où tout n’est qu’illusion, il entrevoit une lueur d’espoir avant de toucher le fond.\n\n« Je restais planté devant elle, elle était si sensuelle. Son parfum, mélange de framboise et de grenade m’enivrait, j’avais envie d’elle, je voulais sentir sa peau contre la mienne. J’avançai pour la plaquer contre le mur à côté de la porte de service. Elle résista un peu mais je ne lui laissai pas le temps de réfléchir. Je pris sa tête entre mes mains et posai ma bouche sur la sienne. Ma langue se frayait un chemin entre ses lèvres pulpeuses, elle ouvrit la bouche et je sentis le contact de sa langue qui caressait la mienne, je me collais à elle, je voulais qu’elle sente l’effet qu’elle me faisait. »",
+			"liens":[
+				{
+					"quote":"Ted23",
+					"link":"http://google.fr",
+					"site":"Google"
+				},
+				{
+					"quote":"Test 123",
+					"link":"http://google.fr",
+					"site":"Google"
+				}
+			],
+			"kindle_link":"http://google.fr",
+			"kindlefire_link":"http://googlee.fr"
+		},
+		{
+			"title":"The Strip",
+			"color":"#17152b",
+			"cover":"https://images-na.ssl-images-amazon.com/images/I/41vRNfVXgrL.jpg",
+			"histoire":"Quelques temps après l’électrochoc de la découverte de l’infidélité de sa femme en direct à la télé, Adam a amorcé sa descente aux enfers dans le Vegas de la nuit, en marge des grands casinos du strip. Entre alcool, sexe et magouille, le gentil Adam d’Hartford Connecticut n’était plus qu’un souvenir. Dans la ville qui ne dort jamais et où tout n’est qu’illusion, il entrevoit une lueur d’espoir avant de toucher le fond.\n\n« Je restais planté devant elle, elle était si sensuelle. Son parfum, mélange de framboise et de grenade m’enivrait, j’avais envie d’elle, je voulais sentir sa peau contre la mienne. J’avançai pour la plaquer contre le mur à côté de la porte de service. Elle résista un peu mais je ne lui laissai pas le temps de réfléchir. Je pris sa tête entre mes mains et posai ma bouche sur la sienne. Ma langue se frayait un chemin entre ses lèvres pulpeuses, elle ouvrit la bouche et je sentis le contact de sa langue qui caressait la mienne, je me collais à elle, je voulais qu’elle sente l’effet qu’elle me faisait. »",
+			"liens":[
+				{
+					"quote":"Test 123",
+					"link":"http://google.fr",
+					"site":"Google"
+				},
+				{
+					"quote":"Test 123",
+					"link":"http://google.fr",
+					"site":"Google"
+				},
+				{
+					"quote":"Test 123",
+					"link":"http://google.fr",
+					"site":"Google"
+				}
+			],
+			"kindle_link":"http://google.fr",
+			"kindlefire_link":"http://googlee.fr"
+		}
+	]
+}
